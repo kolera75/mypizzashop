@@ -1,0 +1,23 @@
+{
+  "name": "mypizzashop",
+  "version": "1.0.0",
+  "description": "Voici une semaine de formation projet autour d'une application de commerce simple : Une pizzeria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolera75/mypizzashop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolera75/mypizzashop/issues"
+  },
+  "homepage": "https://github.com/kolera75/mypizzashop#readme",
+  "engines": {
+    "node": "16.14.2",
+    "npm" : "8.5.0"
+}
+}
