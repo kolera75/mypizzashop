@@ -254,5 +254,6 @@ sans class. Contient les variables css.
     display: flex;
     font-weight: 600;
     font-size: 1.2rem;
+    margin-left: 1rem;
   }
   
